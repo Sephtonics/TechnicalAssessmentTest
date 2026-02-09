@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "CoffeeAPI.Controllers.BrewedCoffeeController",
+    "Method": "Get",
+    "RelativePath": "api/BrewedCoffee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
